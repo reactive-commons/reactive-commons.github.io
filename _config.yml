@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 name: Reactive Commons
 title: Reactive Commons
+show_downloads: true
 description: Common abstractions for reactive microservices
 url: "https://github.com/reactive-commons/reactive-commons-java"
