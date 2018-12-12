@@ -8,11 +8,10 @@ The first approach to this work was to release a very simple abstractions and a 
 ## Get Started
 ```groovy
     repositories {
-      mavenCentral()
-      maven { url "https://dl.bintray.com/reactive-commons/maven-artifacts" }
+      jcenter()
     }
 
     dependencies {
-      compile 'org.reactivecommons:async-commons:0.0.1-alpha1'
+      compile 'org.reactivecommons:async-commons:0.0.2-beta1'
     }
 ```
