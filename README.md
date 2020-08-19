@@ -12,6 +12,6 @@ The first approach to this work was to release a very simple abstractions and a 
     }
 
     dependencies {
-      compile 'org.reactivecommons:async-commons:0.0.2-beta1'
+      compile 'org.reactivecommons:async-commons-starter:0.6.0-beta'
     }
 ```
